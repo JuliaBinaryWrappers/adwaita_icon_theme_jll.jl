@@ -1,6 +1,6 @@
 name = "adwaita_icon_theme_jll"
 uuid = "b437f822-2cd6-5e08-a15c-8bac984d38ee"
-version = "3.33.92+1"
+version = "3.33.92+2"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"

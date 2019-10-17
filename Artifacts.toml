@@ -1,113 +1,113 @@
 [[adwaita_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "802a43b3d1853c256d465c4e64ff06e3960c7b95"
+git-tree-sha1 = "8a44dbd37b91027fdb1f95497c26271d44ddc7ed"
 os = "macos"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "38fe4d3ffab1c2d7dec4f3bcd939d64d4b22a1cd674201d49d56cd742f0f1a5c"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.x86_64-apple-darwin14.tar.gz"
+    sha256 = "ef60dd73739c2e2a076f2e8a57b96ff1f139260d1a81c3a5988eff8ad7e655cf"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.x86_64-apple-darwin14.tar.gz"
 [[adwaita_icon_theme]]
 arch = "i686"
-git-tree-sha1 = "44c9dbe131190e6e04156a703891a88f663bfb35"
+git-tree-sha1 = "bef36520af9fef82cdd3f1a8aace8cdd8c354f29"
 libc = "glibc"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "408554190213a384f638663038c79b0afea79f5630de270d4f2808d64f8696f3"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.i686-linux-gnu.tar.gz"
+    sha256 = "db6bc40c187f61ff2869a73d08bb44d2ba6474256660f1ee71821c088d635e2a"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.i686-linux-gnu.tar.gz"
 [[adwaita_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "99f2f492a466b59d7a9a0a06eaad414bd7731ba6"
+git-tree-sha1 = "8f8b4084b70853d69a476fe92f9f5432d2a4afb7"
 os = "freebsd"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "a6bf69eab99e9ce4bc384375751221a0d31abae0a38e88db811273047e1e394a"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.x86_64-unknown-freebsd11.1.tar.gz"
+    sha256 = "7c235a96c841f8cba9630f879424a92c40cec9e6a67341c27a6e1c04f14d7a4b"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.x86_64-unknown-freebsd11.1.tar.gz"
 [[adwaita_icon_theme]]
 arch = "powerpc64le"
-git-tree-sha1 = "d832da3fda3d199f7ee28a7f9373af3e0fd41631"
+git-tree-sha1 = "7e3577a55301ab3af2bd6dfe4c6c0af89eee0f86"
 libc = "glibc"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "d25687f17b9530269d2f7aaaf8c77bc25e8c679f878719e800323cc451cdc936"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "772bcad42acc4b17057c4f04268b972ce14ad7240f1b7c606c472f6067db996a"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.powerpc64le-linux-gnu.tar.gz"
 [[adwaita_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "446138eb521f150a25941a0871e37549c7e39518"
+git-tree-sha1 = "e840cd1270bf0758852227c06418e4e74cd80990"
 libc = "musl"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "a2e8687f1caf28cf9df3436c73e38578dba333cb08d6179ebf6b242a8dc08dae"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.x86_64-linux-musl.tar.gz"
+    sha256 = "ef6342ae16cbecd5750312e11e5735565e6d175745265eaf36b5b5ce46820a98"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.x86_64-linux-musl.tar.gz"
 [[adwaita_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "d031315b6ee23ed4cecad2a6b5bd8a1c2bee81d7"
+git-tree-sha1 = "1497efa404fa80d9eab9a170e5e85493cb762de7"
 libc = "glibc"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "4a2e602d8109f5e276001bd16845da4efc6075a9b7a4d6b8d76b4b7f94078f9b"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.x86_64-linux-gnu.tar.gz"
+    sha256 = "9e9f1f14a9c923e356961cd46be9a89158b1e4d971479763d1a9640b73194a90"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.x86_64-linux-gnu.tar.gz"
 [[adwaita_icon_theme]]
 arch = "x86_64"
-git-tree-sha1 = "9d5c114e81e370fe282effae0b7ccab914c616ed"
+git-tree-sha1 = "e777a4461714d943495f233e745bb88401afed00"
 os = "windows"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "b30d4163d726aecd18d8b1ea6dd6e026a7606d43c2b83a6dcfab2f6090e0fe65"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.x86_64-w64-mingw32.tar.gz"
+    sha256 = "807571e4064c87f6a8b8dcce0ee3a58132e26a133e2b3b8c8c3a9a2c3de215f4"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.x86_64-w64-mingw32.tar.gz"
 [[adwaita_icon_theme]]
 arch = "aarch64"
-git-tree-sha1 = "5c10c204055123460529089eeaf0ca97dc8cb769"
+git-tree-sha1 = "7c68731198f059cb9ff486291f5f9e3ded5bfef5"
 libc = "musl"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "eedef503dc97d8c2d99a6df32107d7ce8a4a3154d424d53b88ab91d14e13e369"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.aarch64-linux-musl.tar.gz"
+    sha256 = "11961dc334c342650ea8701c8ad6c8ab37d0ec6487b9ebe9a2e3f9a7d314ec88"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.aarch64-linux-musl.tar.gz"
 [[adwaita_icon_theme]]
 arch = "armv7l"
-git-tree-sha1 = "f3085cd6fcd07979162e834ca23a3d5fa6364ea4"
+git-tree-sha1 = "a4bc2bf541afe4ee16000bfa232d83daa340e5c6"
 libc = "glibc"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "c358a46634b0b55a1c3b23d62ae4fc5c47e116170307ab2c2f9e1b85e9484ac3"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.arm-linux-gnueabihf.tar.gz"
+    sha256 = "ac1485c31d487242fdc48fe7c83d7f28bdba0868b2cc982c61a4ccbd5b8203ad"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.arm-linux-gnueabihf.tar.gz"
 [[adwaita_icon_theme]]
 arch = "i686"
-git-tree-sha1 = "3b21a23c988befb12746ee9c2f68ae93d33efaa0"
+git-tree-sha1 = "76a00151118c6bb28c085647d39f4adc070d1662"
 libc = "musl"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "1f513ef257f4d36c7bd2623d8e1565f97f7c15d0028af5520c1a91c038fdbe0b"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.i686-linux-musl.tar.gz"
+    sha256 = "62a6211f8739b20f00a3196f92697d53d9cf4c0e45f613974d76f7a8926491b6"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.i686-linux-musl.tar.gz"
 [[adwaita_icon_theme]]
 arch = "armv7l"
-git-tree-sha1 = "a9322365680c5db16c06a0b48f4ebaf518fabd99"
+git-tree-sha1 = "68ae40a10fb4153544416ed1e5a139b7dd507656"
 libc = "musl"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "f0f2a056d9bd21645d4330e6b1b80fd0ec6bab805cfcc475b002148682694fe4"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.arm-linux-musleabihf.tar.gz"
+    sha256 = "1e5d621afc6f28701d59c81bcc8e2c55218e7797f8ab364da0e514d114f0e3f7"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.arm-linux-musleabihf.tar.gz"
 [[adwaita_icon_theme]]
 arch = "aarch64"
-git-tree-sha1 = "59f1b13fa7bfd48bf75bda4ffe5c108db06dae78"
+git-tree-sha1 = "04dabdcc7bdcf20077a92f34edef4edc22285068"
 libc = "glibc"
 os = "linux"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "1d749a5e775ccc8767052305df0219a7436dc759afe8d089b83c8fc49edcb0e0"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.aarch64-linux-gnu.tar.gz"
+    sha256 = "aacee80db5b25c5681a47e2f18992f9a7bace99a42725bc353ee24a0079eefa8"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.aarch64-linux-gnu.tar.gz"
 [[adwaita_icon_theme]]
 arch = "i686"
-git-tree-sha1 = "33ca9e9804a7d099af590097d8515c45a4d0e16b"
+git-tree-sha1 = "cfd3e542be9fdc8645161de4d580c9b3173ec43a"
 os = "windows"
 
     [[adwaita_icon_theme.download]]
-    sha256 = "8d7ec91248455b72d0dfba01e613c165ca4e63cb58f286febe7bd2bcdaff6d24"
-    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+1/adwaita_icon_theme.v3.33.92.i686-w64-mingw32.tar.gz"
+    sha256 = "b7a340db8d11a552292d875471375a8f39d64059ae20f37dc8526106c2f0b06d"
+    url = "https://github.com/JuliaBinaryWrappers/adwaita_icon_theme_jll.jl/releases/download/adwaita_icon_theme-v3.33.92+2/adwaita_icon_theme.v3.33.92.i686-w64-mingw32.tar.gz"
