@@ -1,6 +1,6 @@
 name = "adwaita_icon_theme_jll"
 uuid = "b437f822-2cd6-5e08-a15c-8bac984d38ee"
-version = "43.0.1+0"
+version = "3.33.93+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
